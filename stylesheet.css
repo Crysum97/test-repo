@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .common {
     color: green;
     font-size: large;
