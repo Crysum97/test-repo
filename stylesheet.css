@@ -2,10 +2,10 @@ body {
     margin: 0;
 }
 
-.common {
-    color: green;
-    font-size: large;
-    font-weight: 600;
+.headline {
+    color: black;
+    font-size: xx-large;
+    font-weight: bold;
 }
 
 .topbar {
